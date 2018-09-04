@@ -1,9 +1,10 @@
 .wrapper {
-  width: 200px;
   height: 200px;
-  background-color: #e02342; }
-  .wrapper p {
-    font-size: 30px;
-    color: #fff; }
+  width: 200px;
+  background-color: red; }
+
+p {
+  font-size: 30px;
+  color: white; }
 
 /*# sourceMappingURL=main.css.map */
