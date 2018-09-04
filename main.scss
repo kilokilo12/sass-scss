@@ -1,9 +1,13 @@
 .wrapper {
-    height: 200px;
-    width: 200px;
-    background-color: red;
-}
-    p {
-        font-size: 30px;
-        color: white;
+    .main {
+        .container {
+            .article {
+                .post {
+                    p {
+                        color: blue;
+                    }
+                }
+            }
+        }
     }
+}
